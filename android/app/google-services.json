@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "463518418597",
+    "firebase_url": "https://elaborate-truth-178501.firebaseio.com",
+    "project_id": "elaborate-truth-178501",
+    "storage_bucket": "elaborate-truth-178501.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463518418597:android:af0cdc842016ebf7",
+        "android_client_info": {
+          "package_name": "com.oevo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463518418597-f8n48sakl5cdaun4db9va12pdpnv15et.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oevo",
+            "certificate_hash": "cb90295a3de1797b2fc3afb26b5f3fe009df428d"
+          }
+        },
+        {
+          "client_id": "463518418597-ar6qu512lj3t6crn21p3ut1uv826utbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUHQS0IvS-ffkO8Alrxgv95gTsX1LljGI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463518418597-si107eg7ar1jm4so5ntdn253fke5rhse.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oevo.oevo"
+              }
+            },
+            {
+              "client_id": "463518418597-ar6qu512lj3t6crn21p3ut1uv826utbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

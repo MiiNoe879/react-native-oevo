@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:textColor">#262626</item>
+        <item name="colorAccent">#ffffff</item>
+        <item name="android:textColorPrimary">#ffffff</item>
+    </style>
+    <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@drawable/background_splash</item>
+    </style>
+    
+<!-- Dialog and Alert Colors. -->
+<style name="DefaultExplainingPermissionsTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+      <!-- Used for the background -->
+    <item name="android:background">#424242</item>
+
+    <!-- Used for the title -->
+    <item name="android:textColor">#ffffff</item>
+
+    <!-- Used for message color of dialog -->
+    <item name="android:textColorPrimary">#ffffff</item>
+
+    <!-- Used for the cancel button -->
+    <item name="colorAccent">#ffffff</item>
+</style>
+
+
+</resources>
